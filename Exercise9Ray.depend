@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1510756740 source:d:\computer prog\exercise9ray\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+
